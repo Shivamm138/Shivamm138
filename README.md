@@ -3,9 +3,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shivamm138&label=Profile%20views&color=0e75b6&style=flat" alt="shivamm138" /> </p>
 
-- 🔭 I’m currently working on **Blog-app**
+- 🔭 I’m currently working on **Full-stack project**
 
-- 🌱 I’m currently learning **NodeJs**
+- 🌱 I’m currently learning **NextJs**
 
 - 📫 How to reach me **shivamcode138@gmail.com**
 
